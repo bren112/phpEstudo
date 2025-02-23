@@ -1,0 +1,30 @@
+.caixaAnimal{
+    display: flex;
+    justify-content: space-around;
+    margin: 2pc;
+    background-color: blueviolet;
+    border-top-left-radius: 1pc;
+    border-top-right-radius: 1pc;
+    text-align: center;
+  
+}
+body{
+    background-color: aquamarine;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#resultados{
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: center;
+}
+a{
+    text-decoration: none;
+    color: white
+}
+img{
+    width: 10pc;
+    height: 9pc;
+    border: solid 2px aquamarine;
+    border-top-left-radius: 1pc;
+    border-top-right-radius: 1pc;
+}
